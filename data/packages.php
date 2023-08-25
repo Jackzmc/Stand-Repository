@@ -324,7 +324,7 @@ $packages = [
 			"lua/json",
 			"lua/jackzvehiclelib",
 		],
-		"version" => "1.25.10",
+		"version" => "1.26.0",
 		"files" => [
 			"Jackz Vehicle Builder.lua" => "jackz.me/stand/get-lua.php?script=jackz_vehicle_builder&source=repo",
 		],
